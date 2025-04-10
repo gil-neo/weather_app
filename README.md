@@ -24,7 +24,7 @@ The code for fetching extended forecasts is implemented within WeatherService an
 
 ## Usage
 1. Start the server with `rails server`.
-2. Navigate to `http://localhost:3000/forecasts.
+2. Navigate to http://localhost:3000/forecasts.
 3. Enter an address and submit the form.
 4. Cached results will be used for subsequent requests by zip code within a 30-minute window.
 
